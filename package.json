@@ -1,0 +1,33 @@
+{
+  "name": "webstaticdoor",
+  "version": "0.1.0",
+  "description": "aiyobaby nodejs web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianlanse/anydoor.git"
+  },
+  "keywords": [
+    "static",
+    "wevserver"
+  ],
+  "author": "matterjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianlanse/anydoor/issues"
+  },
+  "homepage": "https://github.com/qianlanse/anydoor#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.3",
+    "eslint": "^4.13.0",
+    "pre-commit": "^1.2.2"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "handlebars": "^4.0.11",
+    "yargs": "^10.0.3"
+  }
+}
