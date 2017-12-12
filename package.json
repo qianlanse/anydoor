@@ -1,6 +1,6 @@
 {
   "name": "webstaticdoor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "aiyobaby nodejs web server",
   "main": "src/app.js",
   "bin": {
