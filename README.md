@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/qianlanse/anydoor.svg?branch=master)](https://travis-ci.org/qianlanse/anydoor)
 # anydoor
 
 aiyobaby NodeJS Static Web Server
